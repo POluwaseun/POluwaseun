@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Adeniyi Oluwaseun
+- 👋 Hi, I’m Adeniyi Oluwaseun M
 - 👀 I’m interested in UI/UX and Product Management 
-- 🌱 I work with teams to develop softtware products
+- 🌱 I work with teams to Develop Softtware Products
 - 💞️ I’m looking to collaborate on building any cool project
 - 📫 Reach me: oluwaseunadeniyi9@gmail.com
 
